@@ -160,3 +160,8 @@ ul {
 .button-draw:hover {
     background-color: var(--color-button-hover);
 }
+
+.result-list span {
+    color: var(--color-primary); /* ou use 'blue' para uma cor padrão */
+    font-weight: bold;
+}
