@@ -165,3 +165,25 @@ ul {
     color: var(--color-primary); /* ou use 'blue' para uma cor padrão */
     font-weight: bold;
 }
+
+
+/* coloca espaços entre botoes*/
+
+
+.button-container {
+   display: flex;
+   justify-content: center;
+   gap: 20px; 
+   margin-top: 20px; 
+   width: 100%; 
+}
+
+
+.button-reset {
+   background-color: var(--color-tertiary);
+   color: var(--color-text);
+}
+
+.button-reset:hover {
+   background-color: #a1a1a1;
+}

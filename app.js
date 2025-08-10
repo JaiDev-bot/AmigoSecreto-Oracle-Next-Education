@@ -50,7 +50,16 @@ function embaralha(lista) {
         [lista[indice - 1], lista[indiceAleatorio]] = 
         [lista[indiceAleatorio], lista[indice - 1]];
     }
+
 }
+
+function apagarLista() {
+    amigos = [];
+    document.getElementById('lista-amigos').innerHTML = '';
+    document.getElementById('resultado').innerHTML = '';
+}
+
+
 
 
 
