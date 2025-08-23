@@ -4,11 +4,11 @@ Este é um projeto simples e eficiente para sortear participantes de um amigo se
  Ideal para grupos de amigos, famílias ou equipes de trabalho!
 
 # ✨ Funcionalidades
-Sorteio Justo: Garante que ninguém tire a si mesmo.
+Sorteio justo: garante que ninguém tire a si mesmo.
 
-Lista de Participantes: Permite adicionar, remover e visualizar os nomes.
+Lista de participantes: permite adicionar, remover e visualizar os nomes.
 
-Resultado Rápido: Mostra o resultado do sorteio de forma clara e instantânea.
+Resultado rápido: mostra o resultado do sorteio de forma clara e instantânea.
 
 # Resultado:
 
